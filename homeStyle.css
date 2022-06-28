@@ -122,6 +122,10 @@ input[type="checkbox"] {
     display: none;
 }
 
+.welcomeUser {
+    color: #fff;
+    font-size: 1.2em;
+}
 /*--------- Dropdown List in Navbar---------------------*/
 .dropdown {
     position: relative;
