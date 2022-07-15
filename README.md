@@ -14,4 +14,10 @@ E-commerce website for handmade beauty products by the company <b><i>BLISS</i></
 <br>
 <b>USEFUL COMMANDS</b><br>
   1. pip install djangorestframework-simplejwt<br>
-  2. django-admin startapp app_name
+  2. django-admin startapp app_name<br>
+  
+ <b>USEFUL COMMANDS For Pyshop</b><br>
+ 1. python -m venv venv
+ 2. venv\Scripts\activate 
+ 3. 
+ 
